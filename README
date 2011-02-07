@@ -1,0 +1,50 @@
+-- RMU SESSION 5 EXERCISE 2
+
+If in doubt about how to submit, see SUBMISSION_GUIDELINES file.
+
+In this exercise, students will be collaboratively building an elevator
+simulation engine, and then individually building strategies for operating
+elevators in the simulation. The goal of the project is to allow students to
+explore complex modeling and problem solving while cooperatively working
+together to get a lot done in a short period of time.
+
+This is a pretty open ended exercise, but please keep the following guidelines
+in mind.
+
+== GUIDELINES
+
+- The group as a whole is expected to produce an engine that simulates elevator
+  operations in a busy office building or hotel. All code related to user
+  interfaces, the loading of elevator strategies, the basic data models for
+  elevators, buildings, people, etc, can be shared among students.
+
+- The simulation engine should have a simple means of producing different
+  scenarios, and students should generate at least a few different scenarios to
+  test the engine with.
+
+- It should be possible to model a building with multiple elevators, and each
+  elevator should be able to run its own control strategy.
+
+- Each student needs to produce their own code which implements a strategy
+  for controlling the elevators.
+
+- The less you contribute to the core engine, the more you should focus on
+  creating an interesting and creative strategy for controlling the elevators.
+  But even if you have worked a lot on the core engine, you are still expected
+  to implement at least a basic elevator control strategy.
+
+- It is acceptable for students to break into subgroups and produce different
+  engines for each subgroup. If more than one engine is implemented, all engines
+  should at least implement a common means of defining scenarios, so that those
+  can be shared by all students.
+
+- This is the challenge exercise for the course. Don't feel overwhelmed by the
+  lack of definition or complexity involved in it, the goal is to work with
+  those tensions and end up working through them. You will have as much support
+  as you need from Gregory and the alumni mentors to do well on this project.
+  
+== QUESTIONS?
+
+Hit up the mailing list or IRC. RMU exercises are left deliberately open ended,
+and often benefit from some discussion before, during, and after you work on
+them.
